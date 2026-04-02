@@ -1,4 +1,4 @@
-function convertMoney(input){
+function convertMoney(input) {
     let dollar = Number(input[0]);
     let leva = dollar * 1.79549;
 
@@ -6,3 +6,4 @@ function convertMoney(input){
 }
 
 convertMoney(["22"])
+convertMoney(["100"])
