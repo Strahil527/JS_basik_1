@@ -5,5 +5,14 @@ function convertMoney(input) {
     console.log(leva);
 }
 
-convertMoney(["22"])
-convertMoney(["100"])
+convertMoney(
+    [
+        "22"
+    ]
+)
+
+convertMoney(
+    ["100"
+
+    ]
+)
