@@ -5,4 +5,8 @@ function convert(input) {
     console.log(degree);
 }
 
-convert(["3.1416"])
+convert(
+    [
+        "3.1416"
+    ]
+)
